@@ -1,0 +1,323 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [:clustering] C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\clustering\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\32508a60cc6a7708fbc56b90a5d8c6d2\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\5fd063292ed04a8b543f1aee58d7ebb0\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.huawei.hms:maps:4.0.1.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\8f404f28fa1acaee5d797faf543c7580\jetified-maps-4.0.1.300\AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\f1621a4eb6576703d152778e1d6557a1\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\5b235d8decb744a2d383f681ef4f128b\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\155292914a1c483f314b6202bc395ebb\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\9a8c131b7da4c5a84e1fb6baec1c7a6f\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\1f49012fc25b41fb9740e5827de641c2\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\8271880dec9d36b8ea9c58cfb4a4fd32\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\d76a21ad9cf239b715374534fd072b0e\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\708e183fdeb652ea0185f87aedf199fe\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\048bdf5745f93fbad45ef569e1170012\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\0f5fff926afbb74adbecb5067f9b303c\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\403045588859cd5d7f6daf9b1232c8b9\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\966dd7ca5d8f34f3bf36bfa13463d2ca\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\84f927a95c0cf2842902dc7b2a9d8e8f\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\087f72c4fb995c30a87d36edb53eb870\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\61ba723ad7466b566c24a774d64fc54a\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\fefec4bbed6f24cf430f5b44f6ffabf4\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\0ee336d3ce373e643082dcea87c228be\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\54b351c4216f60d7c6fb6ed1062eb080\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\b19fcebd8bc5cd201766b7a46a55e20b\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:2:1-77:12
+MERGED from [com.huawei.hms:dynamic-api:1.0.13.303] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\36dd5fa38745714eaf2f8eff598976de\jetified-dynamic-api-1.0.13.303\AndroidManifest.xml:2:1-20:12
+MERGED from [com.huawei.hms:maps-base:4.0.1.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\1932f8eb59625883788a21ecfbec90c1\jetified-maps-base-4.0.1.300\AndroidManifest.xml:2:1-17:12
+MERGED from [com.huawei.agconnect:agconnect-core:1.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\e338838520e7f312a7145dd59d7b9bb5\jetified-agconnect-core-1.0.0.300\AndroidManifest.xml:2:1-20:12
+MERGED from [com.huawei.hmf:tasks:1.3.3.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\10f2ef39172c9338b5f05a6e32e82f5c\jetified-tasks-1.3.3.300\AndroidManifest.xml:2:1-10:12
+MERGED from [com.huawei.hms:network-grs:4.0.0.302] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\13c4389d83dbc19178671b15f9605db2\jetified-network-grs-4.0.0.302\AndroidManifest.xml:2:1-11:12
+MERGED from [com.huawei.hms:network-common:4.0.0.302] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\6545121e4e20abfeb0dcf3ce0e9e1044\jetified-network-common-4.0.0.302\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:4:5-80
+	android:name
+		ADDED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:4:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:6:5-66
+MERGED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:10:5-67
+MERGED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:7:5-78
+MERGED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:14:5-79
+MERGED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:7:22-76
+application
+ADDED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:9:5-23:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\5fd063292ed04a8b543f1aee58d7ebb0\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\5fd063292ed04a8b543f1aee58d7ebb0\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.huawei.hms:maps:4.0.1.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\8f404f28fa1acaee5d797faf543c7580\jetified-maps-4.0.1.300\AndroidManifest.xml:11:5-21:19
+MERGED from [com.huawei.hms:maps:4.0.1.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\8f404f28fa1acaee5d797faf543c7580\jetified-maps-4.0.1.300\AndroidManifest.xml:11:5-21:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\0f5fff926afbb74adbecb5067f9b303c\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\0f5fff926afbb74adbecb5067f9b303c\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\966dd7ca5d8f34f3bf36bfa13463d2ca\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\966dd7ca5d8f34f3bf36bfa13463d2ca\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:20:5-75:19
+MERGED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:20:5-75:19
+MERGED from [com.huawei.hms:dynamic-api:1.0.13.303] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\36dd5fa38745714eaf2f8eff598976de\jetified-dynamic-api-1.0.13.303\AndroidManifest.xml:11:5-18:19
+MERGED from [com.huawei.hms:dynamic-api:1.0.13.303] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\36dd5fa38745714eaf2f8eff598976de\jetified-dynamic-api-1.0.13.303\AndroidManifest.xml:11:5-18:19
+MERGED from [com.huawei.hms:maps-base:4.0.1.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\1932f8eb59625883788a21ecfbec90c1\jetified-maps-base-4.0.1.300\AndroidManifest.xml:11:5-15:19
+MERGED from [com.huawei.hms:maps-base:4.0.1.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\1932f8eb59625883788a21ecfbec90c1\jetified-maps-base-4.0.1.300\AndroidManifest.xml:11:5-15:19
+MERGED from [com.huawei.agconnect:agconnect-core:1.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\e338838520e7f312a7145dd59d7b9bb5\jetified-agconnect-core-1.0.0.300\AndroidManifest.xml:9:5-18:19
+MERGED from [com.huawei.agconnect:agconnect-core:1.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\e338838520e7f312a7145dd59d7b9bb5\jetified-agconnect-core-1.0.0.300\AndroidManifest.xml:9:5-18:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\0f5fff926afbb74adbecb5067f9b303c\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:10:9-36
+activity#com.pushhunter.huawei.MainActivity
+ADDED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml
+MERGED from [:clustering] C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\clustering\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:clustering] C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\clustering\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\32508a60cc6a7708fbc56b90a5d8c6d2\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\32508a60cc6a7708fbc56b90a5d8c6d2\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\5fd063292ed04a8b543f1aee58d7ebb0\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\5fd063292ed04a8b543f1aee58d7ebb0\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.hms:maps:4.0.1.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\8f404f28fa1acaee5d797faf543c7580\jetified-maps-4.0.1.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:maps:4.0.1.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\8f404f28fa1acaee5d797faf543c7580\jetified-maps-4.0.1.300\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\f1621a4eb6576703d152778e1d6557a1\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\f1621a4eb6576703d152778e1d6557a1\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\5b235d8decb744a2d383f681ef4f128b\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\5b235d8decb744a2d383f681ef4f128b\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\155292914a1c483f314b6202bc395ebb\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\155292914a1c483f314b6202bc395ebb\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\9a8c131b7da4c5a84e1fb6baec1c7a6f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\9a8c131b7da4c5a84e1fb6baec1c7a6f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\1f49012fc25b41fb9740e5827de641c2\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\1f49012fc25b41fb9740e5827de641c2\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\8271880dec9d36b8ea9c58cfb4a4fd32\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\8271880dec9d36b8ea9c58cfb4a4fd32\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\d76a21ad9cf239b715374534fd072b0e\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\d76a21ad9cf239b715374534fd072b0e\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\708e183fdeb652ea0185f87aedf199fe\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\708e183fdeb652ea0185f87aedf199fe\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\048bdf5745f93fbad45ef569e1170012\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\048bdf5745f93fbad45ef569e1170012\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\0f5fff926afbb74adbecb5067f9b303c\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\0f5fff926afbb74adbecb5067f9b303c\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\403045588859cd5d7f6daf9b1232c8b9\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\403045588859cd5d7f6daf9b1232c8b9\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\966dd7ca5d8f34f3bf36bfa13463d2ca\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\966dd7ca5d8f34f3bf36bfa13463d2ca\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\84f927a95c0cf2842902dc7b2a9d8e8f\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\84f927a95c0cf2842902dc7b2a9d8e8f\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\087f72c4fb995c30a87d36edb53eb870\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\087f72c4fb995c30a87d36edb53eb870\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\61ba723ad7466b566c24a774d64fc54a\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\61ba723ad7466b566c24a774d64fc54a\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\fefec4bbed6f24cf430f5b44f6ffabf4\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\fefec4bbed6f24cf430f5b44f6ffabf4\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\0ee336d3ce373e643082dcea87c228be\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\0ee336d3ce373e643082dcea87c228be\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\54b351c4216f60d7c6fb6ed1062eb080\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\54b351c4216f60d7c6fb6ed1062eb080\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\b19fcebd8bc5cd201766b7a46a55e20b\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\b19fcebd8bc5cd201766b7a46a55e20b\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.hms:dynamic-api:1.0.13.303] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\36dd5fa38745714eaf2f8eff598976de\jetified-dynamic-api-1.0.13.303\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:dynamic-api:1.0.13.303] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\36dd5fa38745714eaf2f8eff598976de\jetified-dynamic-api-1.0.13.303\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:maps-base:4.0.1.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\1932f8eb59625883788a21ecfbec90c1\jetified-maps-base-4.0.1.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:maps-base:4.0.1.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\1932f8eb59625883788a21ecfbec90c1\jetified-maps-base-4.0.1.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.agconnect:agconnect-core:1.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\e338838520e7f312a7145dd59d7b9bb5\jetified-agconnect-core-1.0.0.300\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.agconnect:agconnect-core:1.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\e338838520e7f312a7145dd59d7b9bb5\jetified-agconnect-core-1.0.0.300\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.hmf:tasks:1.3.3.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\10f2ef39172c9338b5f05a6e32e82f5c\jetified-tasks-1.3.3.300\AndroidManifest.xml:6:5-8:41
+MERGED from [com.huawei.hmf:tasks:1.3.3.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\10f2ef39172c9338b5f05a6e32e82f5c\jetified-tasks-1.3.3.300\AndroidManifest.xml:6:5-8:41
+MERGED from [com.huawei.hms:network-grs:4.0.0.302] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\13c4389d83dbc19178671b15f9605db2\jetified-network-grs-4.0.0.302\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:network-grs:4.0.0.302] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\13c4389d83dbc19178671b15f9605db2\jetified-network-grs-4.0.0.302\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:network-common:4.0.0.302] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\6545121e4e20abfeb0dcf3ce0e9e1044\jetified-network-common-4.0.0.302\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:network-common:4.0.0.302] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\6545121e4e20abfeb0dcf3ce0e9e1044\jetified-network-common-4.0.0.302\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml
+meta-data#com.huawei.hms.version
+ADDED from [com.huawei.hms:maps:4.0.1.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\8f404f28fa1acaee5d797faf543c7580\jetified-maps-4.0.1.300\AndroidManifest.xml:12:9-14:41
+	android:value
+		ADDED from [com.huawei.hms:maps:4.0.1.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\8f404f28fa1acaee5d797faf543c7580\jetified-maps-4.0.1.300\AndroidManifest.xml:14:13-38
+	android:name
+		ADDED from [com.huawei.hms:maps:4.0.1.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\8f404f28fa1acaee5d797faf543c7580\jetified-maps-4.0.1.300\AndroidManifest.xml:13:13-50
+meta-data#com.huawei.hms.client.service.name:maps
+ADDED from [com.huawei.hms:maps:4.0.1.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\8f404f28fa1acaee5d797faf543c7580\jetified-maps-4.0.1.300\AndroidManifest.xml:15:9-17:46
+	android:value
+		ADDED from [com.huawei.hms:maps:4.0.1.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\8f404f28fa1acaee5d797faf543c7580\jetified-maps-4.0.1.300\AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.huawei.hms:maps:4.0.1.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\8f404f28fa1acaee5d797faf543c7580\jetified-maps-4.0.1.300\AndroidManifest.xml:16:13-67
+meta-data#com.huawei.hms.min_api_level:maps:huawei_module_maps
+ADDED from [com.huawei.hms:maps:4.0.1.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\8f404f28fa1acaee5d797faf543c7580\jetified-maps-4.0.1.300\AndroidManifest.xml:18:9-20:33
+	android:value
+		ADDED from [com.huawei.hms:maps:4.0.1.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\8f404f28fa1acaee5d797faf543c7580\jetified-maps-4.0.1.300\AndroidManifest.xml:20:13-30
+	android:name
+		ADDED from [com.huawei.hms:maps:4.0.1.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\8f404f28fa1acaee5d797faf543c7580\jetified-maps-4.0.1.300\AndroidManifest.xml:19:13-80
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:16:5-83
+	android:name
+		ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:16:22-80
+uses-permission#com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA
+ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:18:5-106
+	android:name
+		ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:18:22-103
+meta-data#com.huawei.hms.client.service.name:base
+ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:26:9-28:46
+	android:value
+		ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:28:13-43
+	android:name
+		ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:27:13-67
+meta-data#com.huawei.hms.min_api_level:base:hmscore
+ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:31:9-33:33
+	android:value
+		ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:33:13-30
+	android:name
+		ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:32:13-69
+activity#com.huawei.hms.activity.BridgeActivity
+ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:35:9-45:20
+	android:excludeFromRecents
+		ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:38:13-46
+	android:hardwareAccelerated
+		ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:40:13-47
+	android:exported
+		ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:39:13-37
+	android:configChanges
+		ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:37:13-124
+	android:theme
+		ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:41:13-61
+	android:name
+		ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:36:13-66
+meta-data#hwc-theme
+ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:42:13-44:77
+	android:value
+		ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:44:17-74
+	android:name
+		ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:43:17-41
+activity#com.huawei.hms.activity.EnableServiceActivity
+ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:46:9-49:20
+	android:configChanges
+		ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:48:13-106
+	android:name
+		ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:47:13-73
+activity#com.huawei.updatesdk.service.otaupdate.AppUpdateActivity
+ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:50:9-58:20
+	android:exported
+		ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:53:13-37
+	android:configChanges
+		ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:52:13-91
+	android:theme
+		ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:54:13-49
+	android:name
+		ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:51:13-84
+activity#com.huawei.updatesdk.support.pm.PackageInstallerActivity
+ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:59:9-67:20
+	android:exported
+		ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:62:13-37
+	android:configChanges
+		ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:61:13-106
+	android:theme
+		ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:63:13-49
+	android:name
+		ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:60:13-84
+provider#com.huawei.hms.update.provider.UpdateProvider
+ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:69:9-74:20
+	android:grantUriPermissions
+		ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:73:13-47
+	android:authorities
+		ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:71:13-71
+	android:exported
+		ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:72:13-37
+	android:name
+		ADDED from [com.huawei.hms:base:4.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\990db663b87d1361a1ca55d2bfe5b225\jetified-base-4.0.0.300\AndroidManifest.xml:70:13-73
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\h00564074\Downloads\PushHunter2\PushHunter2\app\src\main\AndroidManifest.xml:2:1-25:12 reason: com.huawei.android.hms.base requested WRITE_EXTERNAL_STORAGE
+meta-data#com.huawei.hms.client.service.name:dynamic-api
+ADDED from [com.huawei.hms:dynamic-api:1.0.13.303] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\36dd5fa38745714eaf2f8eff598976de\jetified-dynamic-api-1.0.13.303\AndroidManifest.xml:12:9-14:54
+	android:value
+		ADDED from [com.huawei.hms:dynamic-api:1.0.13.303] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\36dd5fa38745714eaf2f8eff598976de\jetified-dynamic-api-1.0.13.303\AndroidManifest.xml:14:13-51
+	android:name
+		ADDED from [com.huawei.hms:dynamic-api:1.0.13.303] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\36dd5fa38745714eaf2f8eff598976de\jetified-dynamic-api-1.0.13.303\AndroidManifest.xml:13:13-74
+meta-data#com.huawei.hms.min_api_level:dynamic-api:huawei_module_dynamicloader
+ADDED from [com.huawei.hms:dynamic-api:1.0.13.303] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\36dd5fa38745714eaf2f8eff598976de\jetified-dynamic-api-1.0.13.303\AndroidManifest.xml:15:9-17:33
+	android:value
+		ADDED from [com.huawei.hms:dynamic-api:1.0.13.303] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\36dd5fa38745714eaf2f8eff598976de\jetified-dynamic-api-1.0.13.303\AndroidManifest.xml:17:13-30
+	android:name
+		ADDED from [com.huawei.hms:dynamic-api:1.0.13.303] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\36dd5fa38745714eaf2f8eff598976de\jetified-dynamic-api-1.0.13.303\AndroidManifest.xml:16:13-96
+uses-library#org.apache.http.legacy
+ADDED from [com.huawei.hms:maps-base:4.0.1.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\1932f8eb59625883788a21ecfbec90c1\jetified-maps-base-4.0.1.300\AndroidManifest.xml:12:9-14:40
+	android:required
+		ADDED from [com.huawei.hms:maps-base:4.0.1.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\1932f8eb59625883788a21ecfbec90c1\jetified-maps-base-4.0.1.300\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [com.huawei.hms:maps-base:4.0.1.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\1932f8eb59625883788a21ecfbec90c1\jetified-maps-base-4.0.1.300\AndroidManifest.xml:13:13-50
+provider#com.huawei.agconnect.core.provider.AGConnectInitializeProvider
+ADDED from [com.huawei.agconnect:agconnect-core:1.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\e338838520e7f312a7145dd59d7b9bb5\jetified-agconnect-core-1.0.0.300\AndroidManifest.xml:10:9-13:40
+	android:authorities
+		ADDED from [com.huawei.agconnect:agconnect-core:1.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\e338838520e7f312a7145dd59d7b9bb5\jetified-agconnect-core-1.0.0.300\AndroidManifest.xml:12:13-73
+	android:exported
+		ADDED from [com.huawei.agconnect:agconnect-core:1.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\e338838520e7f312a7145dd59d7b9bb5\jetified-agconnect-core-1.0.0.300\AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [com.huawei.agconnect:agconnect-core:1.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\e338838520e7f312a7145dd59d7b9bb5\jetified-agconnect-core-1.0.0.300\AndroidManifest.xml:11:13-90
+service#com.huawei.agconnect.core.ServiceDiscovery
+ADDED from [com.huawei.agconnect:agconnect-core:1.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\e338838520e7f312a7145dd59d7b9bb5\jetified-agconnect-core-1.0.0.300\AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from [com.huawei.agconnect:agconnect-core:1.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\e338838520e7f312a7145dd59d7b9bb5\jetified-agconnect-core-1.0.0.300\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from [com.huawei.agconnect:agconnect-core:1.0.0.300] C:\Users\h00564074\.gradle\caches\transforms-2\files-2.1\e338838520e7f312a7145dd59d7b9bb5\jetified-agconnect-core-1.0.0.300\AndroidManifest.xml:16:13-70
